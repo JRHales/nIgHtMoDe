@@ -2,5 +2,9 @@
     "name": "nIgHtMoDe Is bEtTeR",
     "version": "0.0.1",
     "description": "It's night mode.",
+    "background":{
+      "scripts": ["background.js"],
+      "persistent": false
+    },
     "manifest_version": 2
   }
